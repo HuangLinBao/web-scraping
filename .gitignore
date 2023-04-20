@@ -1,0 +1,3 @@
+.env
+keys/
+database.rules.json
